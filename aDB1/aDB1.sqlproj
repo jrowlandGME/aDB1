@@ -60,5 +60,9 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="Customer.sql" />
+    <Build Include="States.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="aDB1.refactorlog" />
   </ItemGroup>
 </Project>
